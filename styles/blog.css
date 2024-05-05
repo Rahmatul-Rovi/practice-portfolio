@@ -1,0 +1,38 @@
+h3{
+    font-size: 30px;
+    text-align: justify;
+    text-decoration: overline;
+}
+.header{
+    text-align:center;
+    height:300px;
+    background-color:blue;
+    background-image: url('Screenshot\ \(13\).png');
+    background-repeat:no-repeat;
+    background-size: 200px;
+    background-image: url("../styles/Screenshot\ \(6\).png");
+    background-image: url('../styles/pexels-pixabay-38547.jpg');
+    background-repeat:repeat-x;
+    background-size: 400px;
+}
+.footer{
+    color:black;
+   
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    border-bottom: none;
+  }
+.blog{
+    margin:  10px;
+    padding:  10px;
+    border:  10px solid rgb(77, 4, 4);
+    box-shadow: 10px 20px 20px;
+}
+.dolor{
+    border: 2px solid peru;
+    height: 30px;
+    display: inline block;
+}

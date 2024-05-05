@@ -1,0 +1,11 @@
+
+body {
+    background-color: burlywood; /* Change this to the color you want */
+}
+product{
+    background-color: red;
+    color:blue;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+}
